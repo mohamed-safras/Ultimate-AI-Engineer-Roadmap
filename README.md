@@ -7,7 +7,7 @@
 The roadmap starts from absolute zero and goes all the way to production-grade AI architecture. Here's the breakdown:
 
 - **Phase 0** - Mindset: AI Engineer vs ML Engineer, market demand 2026
-- **Phase 1** - Python (including async/await for AI APIs - most roadmaps miss this) & DSA
+- **Phase 1** - Python (including async/await for AI APIs - most roadmaps miss this)
 - **Phase 2** - Math & Stats (linear algebra, calculus, probability, optimization)
 - **Phase 3** - Machine Learning Fundamentals (foundation for understanding LLMs)
 - **Phase 4** - Deep Learning (foundation for understanding LLMs)
