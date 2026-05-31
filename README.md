@@ -2,7 +2,7 @@
 
 **What's inside (17 Phases + Capstone):**
 
-![Uploading ElevenLabs_image_nano-banana-2_You are an e..._2026-05-31T13_57_13.png…]()
+<img src='./ElevenLabs_image_nano-banana-2_You are an e..._2026-05-31T13_57_13.png' />
 
 The roadmap starts from absolute zero and goes all the way to production-grade AI architecture. Here's the breakdown:
 
