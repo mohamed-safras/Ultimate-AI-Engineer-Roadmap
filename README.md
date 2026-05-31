@@ -60,7 +60,7 @@ An AI Engineer is **not** a data scientist or ML researcher. You are the bridge 
 - Integrate, orchestrate, and deploy AI models into production systems
 - Design multi-LLM pipelines with routing, fallback, and cost optimization
 - Build RAG systems, AI agents, and agentic workflows
-- Know when to use OpenAI vs Claude vs Gemini vs Mistral vs open-source
+- Know when to use LLM models like OpenAI vs Claude vs Gemini vs Mistral vs open-source
 - Ship reliable, secure, scalable AI-powered software
 
 ### AI Engineer vs ML Engineer
