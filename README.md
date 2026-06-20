@@ -92,7 +92,7 @@ Skills companies are actively hiring for:
 
 > **Goal:** Write clean, production-quality Python. This is non-negotiable.
 
-### 1.1 Python Fundamentals
+### 1.1 Python Fundamentals for AI
 
 **Data Types & Variables**
 - Integers, floats, strings, booleans, None
